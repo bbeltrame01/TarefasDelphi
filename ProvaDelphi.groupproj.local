@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/06 22:10:57.000.785,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\pgProva.groupproj</Transaction>
+    <Transaction>2022/01/09 11:19:44.632,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\ProvaDelphi.groupproj=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\pgProva.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\ProvaDelphiApp.dproj"/>
+	</Default.Personality>
+</BorlandProject>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/06 21:27:19.000.556,=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/06 21:27:41.000.310,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\principal.dfm=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/06 21:27:41.000.310,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\principal.pas=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/06 21:27:50.000.108,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\ProvaDelphiApp.dproj=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/09 02:48:52.000.832,=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+    <Transaction>2022/01/09 02:50:20.000.665,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa1.dfm=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.dfm</Transaction>
+    <Transaction>2022/01/09 02:50:20.000.665,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa1.pas=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+    <Transaction>2022/01/09 14:19:08.664,=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+    <Transaction>2022/01/09 14:20:07.694,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa2.dfm=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.dfm</Transaction>
+    <Transaction>2022/01/09 14:20:07.694,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa2.pas=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+    <Transaction>2022/01/09 15:52:30.029,=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+    <Transaction>2022/01/09 15:53:15.734,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa3.dfm=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.dfm</Transaction>
+    <Transaction>2022/01/09 15:53:15.734,C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\uTarefa3.pas=C:\Users\bruno\Documents\Embarcadero\Studio\Projects\Datum_TI\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
